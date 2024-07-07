@@ -24,7 +24,10 @@ const Navbar = () => {
 
         <div className='flex gap-2 items-center justify-center'>
         <FaYoutube className='text-3xl text-red-600'/>
-        <span className='text-2xl font-roboto'>Youtube</span>
+        <span className='text-2xl font-roboto'>PrimeTube
+        
+        </span>
+        
         </div>
       </div>
         <div className='flex justify-center items-center gap-5'>
